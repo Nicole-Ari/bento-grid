@@ -1,2 +1,2 @@
 ## Live Preview
-https://vercel.com/arisoancs-projects/bento-grid
+https://bento-grid-wine-three.vercel.app/
